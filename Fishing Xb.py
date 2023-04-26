@@ -316,7 +316,6 @@ while True:
 
 	elif menu == '5' or menu == '05':
 		os.system("clear")
-		print(banr)
 		print()
 		print("\033[1;91m[\033[;1;97m~\033[1;91m] \033[1;92mThanks for using my tool 'BruteX'. You can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
 		print()
