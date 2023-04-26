@@ -67,6 +67,8 @@ jalan("\033[1;31m█------////////<<<<< █")
 jalan("\033[1;31m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█")
 
 time.sleep(4)
+os.system ('clear')
+print (logo)
 
 about = ("""\033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mBruteforce Introduction:
 
