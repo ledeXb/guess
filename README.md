@@ -1,5 +1,9 @@
 # Guess
 Guess is A bruteForce attacking tool
+```
+### Wolcome
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/wolcome.jpg)
+```
 
 ## Whats New
 + ```Fixed tor error```
@@ -49,9 +53,12 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 
 ### Input passwordlist
 
-### Setup
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/setup.jpg)
-
+### Wolcome
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/wle.jpg)
+## tool
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/tool.jpg)
+## pass
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/pass.jpg)
 ### Attacking
 ![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/attacking.jpg)
 

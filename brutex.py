@@ -16,11 +16,7 @@ passs = ('''
 \033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mSelect password type:
 
 \033[1;91m[\033[1;97m1\033[1;91m]\033[1;92m Default
-\033[1;91m[\033[1;97m2\033[1;91m]\033[1;92m Customdef jalan(z):
-    for e in z +'\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(00000.03)
+\033[1;91m[\033[1;97m2\033[1;91m]\033[1;92m Custom
 \033[1;91m[\033[1;97m3\033[1;91m]\033[1;92m Back
 \033[1;91m[\033[1;97m0\033[1;91m]\033[1;92m Exit
 
@@ -65,7 +61,6 @@ banr = ("""\033[1;92m
 | |  _  | | | | |  __|  \___  \ \___  \ 
 | |_| | | |_| | | |___   ___| |  ___| | 
 \_____/ \_____/ |_____| /_____/ /_____/ v1.0
- 
            \033[1;91m<═══\033[1;41m\033[1;97m v1.0 \033[;0m\033[1;91m═══>\033[1;92m""")
 
 about = ("""\033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mBruteforce Introduction:
@@ -98,7 +93,12 @@ soc = """\033[1;91m[\033[;1;97m01\033[1;91m] \033[1;92mSelect any options
 \033[1;91m[00] \033[1;91mQuit
 
 \033[1;97m[\033[1;91m??\033[1;97m] \033[1;91mbrutex>> \033[1;92m"""
-
+def jalan(z):
+    for e in z +'\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(00000.03)
+        
 def hackmail():
 	class GmailBruteForce():
 	    def __init__(self):
