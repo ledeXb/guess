@@ -1,9 +1,6 @@
 # Guess
 Guess is A bruteForce attacking tool
-```
-### Wolcome
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/wolcome.jpg)
-```
+
 
 ## Whats New
 + ```Fixed tor error```
